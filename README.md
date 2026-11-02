@@ -9,6 +9,8 @@
 - 🎧 アプリを閉じても再生を続けるバックグラウンド再生
 - 🔒 インターネットに接続しない（[プライバシーポリシー](PRIVACY.md)）
 
+> 🧪 **テスター募集中！** Google Play での公開に向けて、クローズドテストに参加してくださる方を募集しています。詳しくは [テスター募集](TESTERS.md) をご覧ください。
+
 > **English:** A free, ad-free MP3 player for Android with 0.5x–4x speed control and background playback. It never connects to the internet. See the [Privacy Policy](PRIVACY.md#english).
 
 ---
