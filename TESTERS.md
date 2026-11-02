@@ -51,7 +51,7 @@ Google Play では、個人の開発者が新しいアプリを公開する前�
 
 次のフォームに、**Google Play で使っている Google アカウントのメールアドレス**を入力してください。
 
-### 👉 [応募フォーム（準備中）](#応募方法)
+### 👉 [応募フォーム（準備中）](#[応募方法](https://docs.google.com/forms/d/e/1FAIpQLSfc5f5MDb542CMKi2xmea5JdfRiINnKXrYHqLKFKogfpPmEKA/viewform?usp=header))
 
 <!-- TODO: Google フォームの URL ができたら、上のリンク先を差し替える -->
 
