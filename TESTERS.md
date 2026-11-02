@@ -51,9 +51,7 @@ Google Play では、個人の開発者が新しいアプリを公開する前�
 
 次のフォームに、**Google Play で使っている Google アカウントのメールアドレス**を入力してください。
 
-### 👉 [応募フォーム（準備中）](#[応募方法](https://docs.google.com/forms/d/e/1FAIpQLSfc5f5MDb542CMKi2xmea5JdfRiINnKXrYHqLKFKogfpPmEKA/viewform?usp=header))
-
-<!-- TODO: Google フォームの URL ができたら、上のリンク先を差し替える -->
+### 👉 [応募フォームを開く](https://docs.google.com/forms/d/e/1FAIpQLSfc5f5MDb542CMKi2xmea5JdfRiINnKXrYHqLKFKogfpPmEKA/viewform)
 
 フォームで伺うこと：
 
@@ -178,7 +176,7 @@ Google Play requires new personal developer accounts to run a closed test with *
 
 **How to join**
 
-1. Enter your Google account email address in the [application form (coming soon)](#応募方法). Please do **not** post your email address in public places such as GitHub Issues.
+1. Enter your Google account email address in the [application form](https://docs.google.com/forms/d/e/1FAIpQLSfc5f5MDb542CMKi2xmea5JdfRiINnKXrYHqLKFKogfpPmEKA/viewform). Please do **not** post your email address in public places such as GitHub Issues.
 2. I'll add you to the tester list and send a link to join the test to the address you entered.
 3. Open the link with the same Google account, choose "Become a tester", and install the app from Google Play.
 4. Keep the app installed for 14 days. When the test ends, the app switches to the production version and you can keep using it.
